@@ -1,2 +1,2 @@
 source("renv/activate.R")
-renv::restore() # load dependencies into project library
+renv::restore(prompt = FALSE) # load dependencies into project library
