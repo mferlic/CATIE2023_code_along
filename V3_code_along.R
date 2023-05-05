@@ -14,8 +14,8 @@
 
 # 1. Setup and load the simulated ADHD data
 # 2. Center baseline covariates and build contrast matrix
-# 3. Use qlaci to determine if ODD is useful for tailoring first-stage intervention
-#   in a more deeply-tailored AI.
+# 3. Use qlaci to determine if ODD is useful for tailoring first-stage
+#     intervention options in a more deeply-tailored AI.
 # 4. Plot
 
 # Setup -------------------------------------------------------------------
